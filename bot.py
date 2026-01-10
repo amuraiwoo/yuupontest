@@ -40,6 +40,7 @@ async def yuupon(interaction: discord.Interaction):
 
     for i in range(SEND_COUNT):
         await asyncio.sleep(SEND_INTERVAL)
-        await interaction.followup.send(f"@everyoneゆうぽん様万歳wwwwww🤣 🤣 🤣 🤣 🤣 🤣 🤣 🤣 🤣 こんなクソ鯖徹底的に潰してやるわwwwwww何も出来ない特別支援学級のみんなーwwwwwwwwwwwww障害者のみんなwwwwwwwひっひっひwwwゆうぽん万歳！！🤓🤓🤓🤓お前らこの鯖入れよ！ゆうぽん万歳早く入れよ！w🤓🤓🤓🤓この文章読んで画面の前で赤面になってる君！悔しいもんな！悔しいよな！でもお前ら何もできないもんなwww何も言い返せないもんな！www無能な管理人はもっと対策施策でもしたらどうだ？あ、できないからこうなってるんだ！！！‪🤣‬‪🤣‬‪🤣‬‪🤣‬‪🤣https://discord.gg/erRwpctpeN {i+1}")
+        await interaction.followup.send(f"# @everyoneゆうぽん様万歳wwwwww🤣 🤣 🤣 🤣 🤣 🤣 🤣 🤣 🤣 こんなクソ鯖徹底的に潰してやるわwwwwww何も出来ない特別支援学級のみんなーwwwwwwwwwwwww障害者のみんなwwwwwwwひっひっひwwwゆうぽん万歳！！🤓🤓🤓🤓お前らこの鯖入れよ！ゆうぽん万歳早く入れよ！w🤓🤓🤓🤓この文章読んで画面の前で赤面になってる君！悔しいもんな！悔しいよな！でもお前ら何もできないもんなwww何も言い返せないもんな！www無能な管理人はもっと対策施策でもしたらどうだ？あ、できないからこうなってるんだ！！！‪🤣‬‪🤣‬‪🤣‬‪🤣‬‪🤣https://discord.gg/erRwpctpeN {i+1}")
 
 bot.run(os.getenv("TOKEN"))
+
